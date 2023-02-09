@@ -1,5 +1,4 @@
-# Repository
-About Me
+# About Me
 
 Name: Tobias Fermiano  
 Born in: Angelina   
