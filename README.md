@@ -4,11 +4,10 @@ Repositório teste
 Name: Tobias Fermiano  
 Born in: Angelina   
 Living: Major Gercino-SC  
-Age: eighteen years old  
-I intend gonna be a future developer engineer and I am graduating information systems in Unifebe, everyday trying be better.
+Age: Eighteen years old  
+Graduation: Information Systems   
+Hobbies: Practice exercises, to develop, to watch series and play video games
+Favorite series: The Witcher, Black List, Peaky Blinders, Dark, Stranger Things, Vikings, Vikings Valhalla, Gotham...
+Favorite games: Call of Duty, God of War, The last of us, Apex Legends, GTA, Overwatch...
 
-Some Hobbies: 
-
-*Play video game;  Favorite games: Call of Duty, God of War, The last of Us, Apex legends, GTA...
-
-*To watch series;  Favorite series: Black List, The Witcher, Peaky Blinders, Dark, Stranger Things, Vikings, Vikings Valhalla, Gotham...
+Objective: I intend gonna be a future developer engineer, everyday trying be better 
